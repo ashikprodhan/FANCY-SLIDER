@@ -1,3 +1,5 @@
+
+
 #sliders {
   height: 400px;
   width: 60%;
@@ -21,6 +23,9 @@
 .added {
   border: 2px solid #1e1743;
   border-radius: 5px;
+}
+.removed{
+  border: none;
 }
 
 img {
@@ -63,4 +68,10 @@ img {
     height: 300px;
     width: 90%;
   }
+}
+.spinDesign{
+  text-align: center;
+}
+.spinDisplay{
+  display: none;
 }
